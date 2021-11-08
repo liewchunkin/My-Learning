@@ -1,0 +1,5 @@
+cerebrum
+cerebellum
+diseased
+normal 
+tumor_present

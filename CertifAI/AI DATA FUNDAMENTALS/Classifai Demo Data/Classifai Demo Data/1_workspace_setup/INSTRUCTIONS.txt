@@ -1,0 +1,5 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%% ANNOTATION INSTRUCTIONS %%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Use the labels provided in 'labels.txt' and label the objects in the image carefully.

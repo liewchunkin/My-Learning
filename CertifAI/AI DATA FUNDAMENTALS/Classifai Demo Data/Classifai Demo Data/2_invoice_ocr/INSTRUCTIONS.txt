@@ -1,0 +1,10 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%% ANNOTATION INSTRUCTIONS %%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Label the following:
+
+1. Organization name
+2. Sender's name
+3. Receiver's name
+4. Total invoice amount (only digits and separator symbols)

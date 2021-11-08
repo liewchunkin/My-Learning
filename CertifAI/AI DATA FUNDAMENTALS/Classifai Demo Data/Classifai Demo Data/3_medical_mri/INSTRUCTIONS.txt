@@ -1,0 +1,16 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%% ANNOTATION INSTRUCTIONS %%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Use these as main labels and label the regions carefully:
+1. cerebrum
+2. cerebellum
+
+Use these as sub-labels only when 'cerebrum' is the main label:
+1. diseased
+2. normal
+3. tumor_present
+
+Important: Omit the "Region" field.
+
+Export Format: COCO
